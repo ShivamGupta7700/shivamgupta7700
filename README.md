@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam
 
-<!--
-**ShivamGupta7700/shivamgupta7700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I am currently preparing for **JEE & learning Python + DSA**.  
+🚀 I love building mini projects & solving LeetCode problems.  
+💡 Exploring **Web Dev & Machine Learning** alongside studies.
 
-Here are some ideas to get you started:
+## 🛠️ Tech I Use
+- Python 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- DSA in Python for LeetCode
+- JEE Advanced preparation
+- Building small Python utilities & Discord bots
+
+
+
+## 📫 Connect with me:
+- [INSTAGRAM](shivam_gupta_7709)
