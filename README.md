@@ -2,7 +2,7 @@
 
 🎯 I am currently preparing for **JEE & learning Python + DSA**.  
 🚀 I love building mini projects & solving LeetCode problems.  
-💡 Exploring **Web Dev & Machine Learning** alongside studies.
+💡 Exploring **Machine automation and how its works on which algorithms** alongside studies.
 
 ## 🛠️ Tech I Use
 - Python 🐍
