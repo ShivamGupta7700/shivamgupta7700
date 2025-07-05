@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivam
 
-🎯 I am currently preparing for **JEE & learning Python + DSA**.  
+🎯 I am currently preparing for **JEE**.  
 🚀 I love building mini projects & solving LeetCode problems.  
 💡 Exploring **Machine automation and how its works on which algorithms** alongside studies.
 
