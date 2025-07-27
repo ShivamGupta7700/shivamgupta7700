@@ -10,7 +10,3 @@
 - DSA in Python for LeetCode
 - JEE Advanced preparation
 - Building small Python utilities 
-
-
-## > Connect with me:
-### - [leetCode](https://leetcode.com/u/Shivamgupta7709/)
