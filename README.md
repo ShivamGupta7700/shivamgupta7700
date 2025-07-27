@@ -9,9 +9,7 @@
 ## > Current Focus
 - DSA in Python for LeetCode
 - JEE Advanced preparation
-- Building small Python utilities & Discord bots
-
-
+- Building small Python utilities 
 
 
 ## > Connect with me:
