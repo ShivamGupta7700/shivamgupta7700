@@ -7,6 +7,5 @@
 - Python 
 
 ## > Current Focus
-- DSA in Python for LeetCode
 - JEE Advanced preparation
 - Building small Python utilities 
