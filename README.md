@@ -5,5 +5,5 @@
 
 ## > Tech I Use
 - Python
-- C++
 
+  
