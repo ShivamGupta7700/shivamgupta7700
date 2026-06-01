@@ -9,5 +9,5 @@
  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,git,github,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,python" />
 </p>
