@@ -8,5 +8,6 @@
 </p>
  
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" height="25">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,git,github,vscode,linux,docker" />
+</p>
