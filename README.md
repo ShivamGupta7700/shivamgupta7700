@@ -19,7 +19,5 @@
   <a href="https://leetcode.com/u/shivamguptamsi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.instagram.com/shivamguptamsi/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+
 </p>
