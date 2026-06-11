@@ -3,7 +3,7 @@
 </h2>
 <div align="center">
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header&text=&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=footer&text=&fontSize=0" />
 </div>
 
 <p align='center'>
