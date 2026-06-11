@@ -12,7 +12,7 @@
 
 <div></div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,numpy" />
 </p>
 
 <p align="center">
