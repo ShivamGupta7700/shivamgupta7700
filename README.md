@@ -12,7 +12,7 @@
 
 <div></div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow" />
 </p>
 
 <p align="center">
